@@ -1,0 +1,19 @@
+STEP 1: EXTRACT main resource pack "§1§lHuahwi's InFinite 16x Edit.zip"
+AND 1.8+ texture "enchanting_table.png"
+
+STEP 2: DOWNLOAD Defscape 16x
+Download Link: http://www.mediafire.com/download/qws509fotbc8sx6/Defscape_16x_2.4.zip
+
+STEP 3: DRAG THE SPECIFIC TEXTURES FROM DEFSCAPE 16x
+TO THE CORRESPONDING FOLDER IN "§1§lHuahwi's InFinite 16x Edit.zip"
+
+blocks - bedrock, gravel, glowstone, redstone lamp on & off, obsidian
+entity/chest - christmas, ender, normal, trapped (all chest textures)
+entity - sign
+gui - container (entire folder)
+
+STEP 4: DRAG "enchanting_table.png" to the container folder. (This is the enchantment table for 1.8+)
+
+
+YOU'RE DONE! And you're welcome! =)
+Sincerely, Huahwi
